@@ -7,9 +7,9 @@ Large language models routinely translate natural language into formal languages
 ## Venue
 
 The Workshop will take place from 9am to 4pm in:
-Stewart House, Room 2
+**Stewart House, Room 2
 32 Russell Square,
-London WC1B 5DN
+London WC1B 5DN**
 
 ### Getting There
 Stewart House, Royal Holloway's London campus, is in the heart of Bloomsbury, London. Public transport is the easiest way to reach us.
