@@ -1,2 +1,3 @@
-# autoformalization
-Repository for our upcoming autoformalization workshop at London, 2026
+# Workshop towards General Autoformalization
+
+Welcome to our first workshop towards General Autoformalization. Large language models routinely translate natural language into formal languages that machines can check and reason with: proofs in Lean or Isabelle, logical formulas, Prolog programs, PDDL plans, ontologies, and more. We call this task "autoformalization", and we think that understanding it well is central to building AI that we can trust. So far we see that researchers in mathematics, verification, planning, and knowledge representation often tackle the same autoformalization problems separately and under different names. In this workshop, we aim to bring together researchers in these communities from across the UK, to share benchmarks, methods, and ideas, and to help shape a common foundation for autoformalization and (through it) reliable and verifiable AI.
