@@ -23,3 +23,35 @@ Stewart House, Royal Holloway's London campus, is in the heart of Bloomsbury, Lo
 **By train**
 **King's Cross St Pancras** and **Euston**: about 15–20 minutes on foot, or take the Piccadilly line one stop from King's Cross to Russell Square.
 
+## Program 
+
+### Welcome: 9am to 9:15am
+
+### Keynote: 9:15am to 10:15am
+
+*TBA*
+
+### Coffee Break: 10:15am to 10:45pm       
+
+### Presentation Session 1: 10:45am to 12:15pm
+
+*Chair: TBD*
+
+This session will include 3-5 presentations by workshop participants
+
+### Lunch: 12:15pm to 1:30pm
+
+### Presentation Session 2: 1:30pm-3:00pm
+
+*Chair: TBD*
+
+This session will include 3-5 presentations by workshop participants
+
+### Coffee Break: 3:30pm to 4pm       
+
+### Panel: 4pm to 5pm
+
+### Closing Remarks: 5pm-5:15pm
+
+
+
