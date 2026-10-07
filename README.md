@@ -41,7 +41,7 @@ This session will include 3-5 presentations by workshop participants
 
 ### Lunch: 12:15pm to 1:30pm
 
-### Presentation Session 2: 1:30pm-3:00pm
+### Presentation Session 2: 1:30pm to 3pm
 
 *Chair: TBD*
 
@@ -51,7 +51,7 @@ This session will include 3-5 presentations by workshop participants
 
 ### Panel: 4pm to 5pm
 
-### Closing Remarks: 5pm-5:15pm
+### Closing Remarks: 5pm to 5:15pm
 
 
 
