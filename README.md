@@ -5,7 +5,7 @@ Welcome to Towards General Autoformalization, our first multi-disciplinary autof
 Large language models routinely translate natural language into formal languages that machines can check and reason with: proofs in Lean or Isabelle, logical formulas, Prolog programs, PDDL plans, ontologies, and more. We call this task "autoformalization", and we think that understanding it well is central to building AI that we can trust. So far we see that researchers in mathematics, verification, planning, and knowledge representation often tackle the same autoformalization problems separately and under different names. In this workshop, we aim to bring together researchers in these communities from across the UK, to share benchmarks, methods, and ideas, and to help shape a common foundation for autoformalization and (through it) reliable and verifiable AI.
 
 Watch our talk at AAAI: 
-[![Watch our AAAI talk](aaai-talk-thumbnail.png)](https://underline.io/lecture/138771-towards-a-common-framework-for-autoformalization)
+[![Watch our AAAI talk](aaai-talk-thumbnail2.png)](https://underline.io/lecture/138771-towards-a-common-framework-for-autoformalization)
 
 
 ## Venue
