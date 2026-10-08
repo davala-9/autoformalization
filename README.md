@@ -64,9 +64,9 @@ This session will include 3-5 presentations by workshop participants
 
 ## Organisation
 
- - Dr [Agnieszka Mensfelt](https://pure.royalholloway.ac.uk/en/persons/agnieszka-mensfelt/)
- - Dr [David Tena Cucala](https://pure.royalholloway.ac.uk/en/persons/david-tena-cucala/)
- - Dr [Santiago Franco Aixela](https://pure.royalholloway.ac.uk/en/persons/santiago-franco/)
- - Dr [Angeliki Koutsoukou-Argyraki](https://pure.royalholloway.ac.uk/en/persons/angeliki-koutsoukou-argyraki/)
- - Prof [Kostas Stathis](https://pure.royalholloway.ac.uk/en/persons/kostas-stathis/)
+ - Dr [Agnieszka Mensfelt](https://pure.royalholloway.ac.uk/en/persons/agnieszka-mensfelt/), Lecturer in Computer Science, Royal Holloway
+ - Dr [David Tena Cucala](https://pure.royalholloway.ac.uk/en/persons/david-tena-cucala/), Lecturer in Computer Science, Royal Holloway
+ - Dr [Santiago Franco Aixela](https://pure.royalholloway.ac.uk/en/persons/santiago-franco/), Lecturer in Computer Science, Royal Holloway
+ - Dr [Angeliki Koutsoukou-Argyraki](https://pure.royalholloway.ac.uk/en/persons/angeliki-koutsoukou-argyraki/), Lecturer in Computer Science, Royal Holloway
+ - Prof [Kostas Stathis](https://pure.royalholloway.ac.uk/en/persons/kostas-stathis/) Professor in Computer Science, Royal Holloway
 
