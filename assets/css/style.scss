@@ -1,6 +1,10 @@
 ---
 ---
 
+// Colours matched to the banner
+$section-headings-color: #072844;   // titles: the banner's navy
+$body-link-color: #c4520a;          // links: a darker shade of the banner's orange
+
 @import "{{ site.theme }}";
 
 .page-header {
