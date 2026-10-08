@@ -10,7 +10,7 @@ Watch our talk at AAAI:
 
 ## Venue
 
-The Workshop will take place from 9am to 4pm in:
+The Workshop will take place from 9am to 5pm in:
 **Stewart House, Room 2
 32 Russell Square,
 London WC1B 5DN**
