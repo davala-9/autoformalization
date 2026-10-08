@@ -1,4 +1,4 @@
-# Towards General Autoformalization Workshop (Thursday 26th of November)
+# Towards General Autoformalization Workshop
 
 Welcome to Towards General Autoformalization, our first multi-disciplinary autoformalization workshop at [Royal Holloway, University of London](https://www.royalholloway.ac.uk).
 
