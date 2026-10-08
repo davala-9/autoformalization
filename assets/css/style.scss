@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  background: #072844 url("../../Royal_Holloway_Autoformalization_Workshop_Banner.png") center / cover no-repeat;
+  aspect-ratio: 2172 / 724;
+  padding: 0;
+}
+
+.page-header .project-name,
+.page-header .project-tagline,
+.page-header .btn {
+  display: none;
+}
