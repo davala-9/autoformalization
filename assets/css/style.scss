@@ -18,3 +18,31 @@ $body-link-color: #c4520a;          // links: a darker shade of the banner's ora
 .page-header .btn {
   display: none;
 }
+
+
+.workshop-nav {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  padding: 14px 10px;
+  margin-bottom: 2rem;
+  background: #f5f7fa;
+  border-radius: 6px;
+  border: 1px solid #e0e4e8;
+}
+
+.workshop-nav a {
+  color: #155799;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.workshop-nav a:hover {
+  color: #159957;
+  text-decoration: underline;
+}
+
+html {
+  scroll-behavior: smooth;
+}
