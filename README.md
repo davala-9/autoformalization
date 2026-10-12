@@ -1,7 +1,7 @@
 <nav class="workshop-nav">
   <a href="#home">Home</a>
-  <a href="#venue">Venue</a>
   <a href="#program">Programme</a>
+  <a href="#venue">Venue</a>
   <a href="#organisation">Organisation</a>
 </nav>
 
@@ -16,7 +16,7 @@ Large language models routinely translate natural language into formal languages
 Watch our talk at AAAI: 
 [![Watch our AAAI talk](aaai-talk-thumbnail2.png)](https://underline.io/lecture/138771-towards-a-common-framework-for-autoformalization)
 
-
+---
 
 ## <a id="program"></a>Program
 
@@ -48,7 +48,7 @@ This session will include 3-5 presentations by workshop participants
 
 ### Closing Remarks: 4:30pm to 4:45pm
 
-
+---
 
 ## <a id="venue"></a>Venue
 
@@ -72,6 +72,7 @@ Stewart House, Royal Holloway's London campus, is in the heart of Bloomsbury, Lo
 **By train**
 **King's Cross St Pancras** and **Euston**: about 15–20 minutes on foot, or take the Piccadilly line one stop from King's Cross to Russell Square.
 
+---
 
 ## <a id="organisation"></a>Organisation
 
