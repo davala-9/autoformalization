@@ -1,3 +1,12 @@
+<nav class="workshop-nav">
+  <a href="#home">Home</a>
+  <a href="#venue">Venue</a>
+  <a href="#program">Programme</a>
+  <a href="#organisation">Organisation</a>
+</nav>
+
+<div id="home"></div>
+
 ### November 26th, Stewart House, London
 
 Welcome to Towards General Autoformalization, our first multi-disciplinary autoformalization workshop at [Royal Holloway, University of London](https://www.royalholloway.ac.uk).
@@ -8,29 +17,8 @@ Watch our talk at AAAI:
 [![Watch our AAAI talk](aaai-talk-thumbnail2.png)](https://underline.io/lecture/138771-towards-a-common-framework-for-autoformalization)
 
 
-## Venue
 
-The Workshop will take place from 9am to 5pm in:
-**Stewart House, Room 2
-32 Russell Square,
-London WC1B 5DN**
-
-
-<iframe src="https://maps.google.com/maps?q=Stewart+House,+32+Russell+Square,+London+WC1B+5DN&output=embed" width="100%" height="400" style="border:0;" allowfullscreen loading="lazy"></iframe>
-   
-### Getting There
-Stewart House, Royal Holloway's London campus, is in the heart of Bloomsbury, London. Public transport is the easiest way to reach us.
-
-**By Underground**
- - **Russell Square** (Piccadilly line): about 5 minutes' walk
-- **Holborn** (Central and Piccadilly lines): about 8 minutes' walk
-- **Goodge Street** (Northern line): about 10 minutes' walk
-- **Tottenham Court Road** (Central, Northern and Elizabeth lines): about 10 minutes' walk
-
-**By train**
-**King's Cross St Pancras** and **Euston**: about 15–20 minutes on foot, or take the Piccadilly line one stop from King's Cross to Russell Square.
-
-## Program 
+## <a id="program"></a>Program
 
 ### Arrival & Welcome: 8:45am to 9am
 
@@ -38,7 +26,7 @@ Stewart House, Royal Holloway's London campus, is in the heart of Bloomsbury, Lo
 
 *TBA*
 
-### Coffee Break: 10am to 10:30pm       
+### Coffee Break: 10am to 10:30am       
 
 ### Presentation Session 1: 10:30am to 12pm
 
@@ -60,7 +48,32 @@ This session will include 3-5 presentations by workshop participants
 
 ### Closing Remarks: 4:30pm to 4:45pm
 
-## Organisation
+
+
+## <a id="venue"></a>Venue
+
+The Workshop will take place from 9am to 5pm in:
+**Stewart House, Room 2
+32 Russell Square,
+London WC1B 5DN**
+
+
+<iframe src="https://maps.google.com/maps?q=Stewart+House,+32+Russell+Square,+London+WC1B+5DN&output=embed" width="100%" height="400" style="border:0;" allowfullscreen loading="lazy"></iframe>
+   
+### Getting There
+Stewart House, Royal Holloway's London campus, is in the heart of Bloomsbury, London. Public transport is the easiest way to reach us.
+
+**By Underground**
+ - **Russell Square** (Piccadilly line): about 5 minutes' walk
+- **Holborn** (Central and Piccadilly lines): about 8 minutes' walk
+- **Goodge Street** (Northern line): about 10 minutes' walk
+- **Tottenham Court Road** (Central, Northern and Elizabeth lines): about 10 minutes' walk
+
+**By train**
+**King's Cross St Pancras** and **Euston**: about 15–20 minutes on foot, or take the Piccadilly line one stop from King's Cross to Russell Square.
+
+
+## <a id="organisation"></a>Organisation
 
  - Dr [Agnieszka Mensfelt](https://pure.royalholloway.ac.uk/en/persons/agnieszka-mensfelt/), Lecturer in Computer Science, Royal Holloway
  - Dr [David Tena Cucala](https://pure.royalholloway.ac.uk/en/persons/david-tena-cucala/), Lecturer in Computer Science, Royal Holloway
