@@ -20,45 +20,40 @@ $body-link-color: #c4520a;          // links: a darker shade of the banner's ora
 }
 
 
-.workshop-nav {
+
+.main-content nav.workshop-nav {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 1rem;
-  margin: 1.5rem 0 2rem;
+  gap: 16px;
+  margin: 30px 0 40px;
 }
 
-.workshop-nav a {
+.main-content nav.workshop-nav a {
   display: inline-block;
-  padding: 0.75rem 1.5rem;
-  background-color: #eff5f8;
-  color: #155799;
-  border: 1px solid #c8dbe6;
+  padding: 12px 24px;
+  background-color: #072844;
+  color: #ffffff !important;
+  border: 2px solid #072844;
   border-radius: 8px;
   font-weight: 600;
-  text-decoration: none;
-  text-align: center;
-  transition: all 0.2s ease;
+  line-height: 1.4;
+  text-decoration: none !important;
 }
 
-.workshop-nav a:hover,
-.workshop-nav a:focus-visible {
-  background-color: #155799;
-  color: white;
-  border-color: #155799;
-  text-decoration: none;
+.main-content nav.workshop-nav a:hover {
+  background-color: #c4520a;
+  border-color: #c4520a;
+  color: #ffffff !important;
 }
 
 @media (max-width: 600px) {
-  .workshop-nav {
-    gap: 0.5rem;
+  .main-content nav.workshop-nav {
+    gap: 8px;
   }
 
-  .workshop-nav a {
-    padding: 0.6rem 1rem;
+  .main-content nav.workshop-nav a {
+    padding: 10px 14px;
     font-size: 0.9rem;
   }
-}
-html {
-  scroll-behavior: smooth;
 }
