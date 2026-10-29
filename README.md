@@ -17,25 +17,25 @@ Large language models routinely translate natural language into formal languages
 
 ## <a id="program"></a>Program
 
-### Doors open at 9am
+### 9am: Doors open
 
-### Welcome: 9:15am to 9:30am
+### 9:15am to 9:30am: Welcome
 
-### Presentation Session 1: 9:30am to 10:30am
+### 9:30am to 10:30am: Presentation Session 1
 
-### Coffee Break: 10:30am to 11am       
+### 10:30am to 11am: Coffee Break       
 
-### Presentation Session 2: 11am to 12:30pm
+### 11am to 12:30pm: Presentation Session 2
 
-### Lunch: 12:30pm to 1:45pm
+### 12:30pm to 1:45pm: Lunch
 
-### Presentation Session 3: 1:45pm to 3:15pm
+### 1:45pm to 3:15pm: Presentation Session 3
 
-### Coffee Break: 3:15pm to 3:45pm       
+### 3:15pm to 3:45pm: Coffee Break     
 
-### Panel: 3:45pm to 4:45pm
+### 3:45pm to 4:45pm: Panel
 
-### Closing Remarks: 4:45pm to 5pm
+### 4:45pm to 5pm: Closing Remarks
 
 ---
 
