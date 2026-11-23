@@ -92,7 +92,21 @@ Emanuele La Malfa, University of Oxford & IDAI
 
 *Chair: David Tena Cucala*
 
-#### 3:30pm to 4pm: Navier–Stokes Lost in Translation: Why Lean Verification of AI Autoformalisation Does Not
+#### 3:30pm to 4pm: Navier–Stokes Lost in Translation: Why Lean Verification of AI Autoformalisation Does Not Guarantee Correct Natural Language Proofs
+
+Alexander Bastounis, King's College London
+
+#### 4pm to 4:30pm: Autoformalising Malink's Reconstruction of Aristotle's Modal Syllogistic
+
+Karol Wapniarski, University of Cambridge
+
+---
+
+### 4:30pm to 5pm: Panel Discussion
+
+*Moderator: Kostas Stathis*
+
+---
 
 ## <a id="venue"></a>Venue
 
