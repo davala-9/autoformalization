@@ -20,6 +20,8 @@ Large language models routinely translate natural language into formal languages
 
 Kostas Stathis
 
+---
+
 ### 9:15am to 10:45am: Session 1
 
 *Chair: Santiago Franco, RHUL*
@@ -36,7 +38,11 @@ Xiang Yin, Imperial College London
 
 Gabriel Freedman, Imperial College London
 
+---
+
 ### 10:45am to 11:15am: Coffee Break
+
+---
 
 ### 11:15am to 12:45pm: Session 2
 
@@ -54,7 +60,11 @@ Adam Dejl, Imperial College London
 
 Eva Feng, University of Oxford
 
+---
+
 ### 12:45pm to 1:30pm: Lunch
+
+---
 
 ### 1:30pm to 3pm: Session 3
 
@@ -72,25 +82,17 @@ André Freitas, Idiap Research Institute (Online)
 
 Emanuele La Malfa, University of Oxford & IDAI
 
+---
+
 ### 3pm to 3:30pm: Coffee Break
+
+---
 
 ### 3:30pm to 4:30pm: Session 4
 
 *Chair: David Tena Cucala*
 
-#### 3:30pm to 4pm: Navier–Stokes Lost in Translation: Why Lean Verification of AI Autoformalisation Does Not Guarantee Correct Natural Language Proofs
-
-Alexander Bastounis, King's College London
-
-#### 4pm to 4:30pm: Autoformalising Malink's Reconstruction of Aristotle's Modal Syllogistic
-
-Karol Wapniarski, University of Cambridge
-
-### 4:30pm to 5pm: Panel Discussion
-
-*Moderator: Kostas Stathis*
-
----
+#### 3:30pm to 4pm: Navier–Stokes Lost in Translation: Why Lean Verification of AI Autoformalisation Does Not
 
 ## <a id="venue"></a>Venue
 
