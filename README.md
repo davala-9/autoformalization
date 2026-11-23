@@ -14,28 +14,81 @@ Welcome to Towards General Autoformalization, our first multi-disciplinary autof
 Large language models routinely translate natural language into formal languages that machines can check and reason with: proofs in Lean or Isabelle, logical formulas, Prolog programs, PDDL plans, ontologies, and more. We call this task "autoformalization", and we think that understanding it well is central to building AI that we can trust. So far we see that researchers in mathematics, verification, planning, and knowledge representation often tackle the same autoformalization problems separately and under different names. In this workshop, we aim to bring together researchers in these communities from across the UK, to share benchmarks, methods, and ideas, and to help shape a common foundation for autoformalization and (through it) reliable and verifiable AI.
 
 ---
-
 ## <a id="program"></a>Program
 
-### 9am: Doors open
+### 9am to 9:15am: Welcome and Introduction
 
-### 9:15am to 9:30am: Welcome
+Kostas Stathis
 
-### 9:30am to 10:30am: Presentation Session 1
+### 9:15am to 10:45am: Session 1
 
-### 10:30am to 11am: Coffee Break       
+*Chair: Santiago Franco, RHUL*
 
-### 11am to 12:30pm: Presentation Session 2
+#### 9:15am to 9:45am: Autoformalise with Confidence: Semantic Control and Uncertainty-Aware Reasoning
 
-### 12:30pm to 1:45pm: Lunch
+Pranava Madhyastha, City St Georges, University of London
 
-### 1:45pm to 3:15pm: Presentation Session 3
+#### 9:45am to 10:15am: Separating Perception and Reasoning in Vision–Language Models
 
-### 3:15pm to 3:45pm: Coffee Break     
+Xiang Yin, Imperial College London
 
-### 3:45pm to 4:45pm: Panel
+#### 10:15am to 10:45am: Capabilities Are Not Enough: The Case for Dialectical Reasoning in Consequential Decision-Making
 
-### 4:45pm to 5pm: Closing Remarks
+Gabriel Freedman, Imperial College London
+
+### 10:45am to 11:15am: Coffee Break
+
+### 11:15am to 12:45pm: Session 2
+
+*Chair: Agnieszka Mensfelt*
+
+#### 11:15am to 11:45am: AI for (Formal) Theorem Proving
+
+Wenda Li, University of Edinburgh
+
+#### 11:45am to 12:15pm: Argumentation for Explainable and Globally Contestable Decision Support with LLMs
+
+Adam Dejl, Imperial College London
+
+#### 12:15pm to 12:45pm: The Correspondence Between Bounded Graph Neural Networks and Fragments of First-Order Logic
+
+Eva Feng, University of Oxford
+
+### 12:45pm to 1:30pm: Lunch
+
+### 1:30pm to 3pm: Session 3
+
+*Chair: Angeliki Koutsoukou-Argyraki*
+
+#### 1:30pm to 2pm: Legible Autoformalisation Using Isabelle
+
+Lawrence Paulson, University of Cambridge
+
+#### 2pm to 2:30pm: Agentic Reasoning for Mathematical Discovery and Verification
+
+André Freitas, Idiap Research Institute (Online)
+
+#### 2:30pm to 3pm: Planning with Agents: From Self-Improving Loops to the Problem of Specification
+
+Emanuele La Malfa, University of Oxford & IDAI
+
+### 3pm to 3:30pm: Coffee Break
+
+### 3:30pm to 4:30pm: Session 4
+
+*Chair: David Tena Cucala*
+
+#### 3:30pm to 4pm: Navier–Stokes Lost in Translation: Why Lean Verification of AI Autoformalisation Does Not Guarantee Correct Natural Language Proofs
+
+Alexander Bastounis, King's College London
+
+#### 4pm to 4:30pm: Autoformalising Malink's Reconstruction of Aristotle's Modal Syllogistic
+
+Karol Wapniarski, University of Cambridge
+
+### 4:30pm to 5pm: Panel Discussion
+
+*Moderator: Kostas Stathis*
 
 ---
 
